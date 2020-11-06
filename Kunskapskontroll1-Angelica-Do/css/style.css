@@ -4,6 +4,9 @@
 .art-3 p:hover {
 cursor: pointer;
 }
+.art-2 p:hover{
+cursor: pointer;
+}
 .bg-blue{
     background-color: blue;
 }
