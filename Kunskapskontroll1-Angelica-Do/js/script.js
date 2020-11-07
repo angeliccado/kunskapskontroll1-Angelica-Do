@@ -80,8 +80,9 @@ let borderUl = document.querySelector('ul');
 borderUl.style.border = '6px solid purple';
 
 // Select and add event on a 
-let navigationA = document.querySelector('nav a');
-navigationA.addEventListener('click',function(event){
+let navigationA = document.querySelectorAll('nav a');
+let nava= navigationA[1];
+nava.addEventListener('click',function(event){
 strongNav();
 });
 
@@ -159,6 +160,6 @@ function alertCart(){
 // Underline Home in Nav
 function strongNav(){
     let nav = document.querySelectorAll('nav a');
-    let a = nav[0];
+    let a = nav[1];
    a.style.textDecoration = 'underline';
 }

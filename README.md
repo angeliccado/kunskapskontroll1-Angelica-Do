@@ -1,6 +1,6 @@
 # kunskapskontroll1-Angelica-Do
 Som ux-designer försökte jag mig på att skapa en högre användbarhet för sidan, genom bland annat:
-1. Se var man är på sidan genom underline på "Home" (tryck på Home).
+1. Se var man är på sidan genom underline på "Products" (tryck på Home).
 2. Tyck på Varukorg-ikonen - en alert dyker upp.
 3. Tryck på Texten på Art-2 - Ändrar beskrivning
 4. RESET knapp tar bort alla ändringar. Dock så kommer den att lägga till "Menu" i footern vid fler tryck efter varandra.
